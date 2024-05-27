@@ -1,0 +1,215 @@
+body{
+background-color: #F2F3F4;
+padding: 30px;
+
+}
+
+.Formulario{
+border: 1px solid #000;
+height: 1200px;
+background-color: white;
+width: 1100px;
+margin-left: 150px;
+}
+
+
+h1{
+    margin-left: 30px;
+}
+
+input[id="Apellido"],input[id="tipo pass"]{
+   margin-left: 40px;
+}
+.Estado{
+    width: 80px;
+    margin-left: 265px;
+}
+.Pais{
+    margin-left: 135px;
+    margin-top: 10px;
+}
+.Nom{
+    margin-left: 80px;
+}
+.com{
+    margin-left: 60px;
+}
+.abajo{
+    font-size: 10px;
+    margin-left: 178px;
+}
+.abajo2{
+    font-size: 10px;
+    margin-left: 150px;
+}
+.a{
+font-size: 10px;
+margin-left: 5px;
+}
+input[id="fecha"],input[id="Num"],input[id=Municipio] {
+    margin-left: 135px;
+    margin-top: 20px;
+ }
+ input[id="Num"]{
+    width: 60px;
+ }
+
+ input[id="progressbar"]{
+margin-left: 150px;
+ }
+ input[id="codigo"]{
+    width: 60px;
+    margin-left: 80px;
+ }
+ .primero{
+    border-top: 0.5px solid black; 
+    border-bottom: 0.5px solid black; 
+    padding: 20px; 
+    padding-bottom: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+ }
+ .primero:hover{
+    background-color:#FEF9E7 ;
+ }
+ .fechat{
+    margin-left: 133px;
+    font-size: 10px;
+ }
+ .Direccion{
+    border-top: 0.5px solid black; 
+    border-bottom: 0.5px solid black; 
+    padding: 20px; 
+    padding-bottom: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+ }
+ .Direccion:hover{
+    background-color:#FEF9E7 ;
+
+ }
+ .Diretext{
+    margin-left: 60px;
+ }
+ .Email{
+    border-top: 0.5px solid black; 
+    border-bottom: 0.5px solid black; 
+    padding: 20px; 
+    padding-bottom: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+ }
+ .Email:hover{
+    background-color:#FEF9E7 ;
+
+ }
+ .Telefono{
+    border-top: 0.5px solid black; 
+    border-bottom: 0.5px solid black; 
+    padding: 20px; 
+    padding-bottom: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+ }
+ .Telefono:hover{
+    background-color:#FEF9E7 ;
+ }
+ .Otros{
+    border-top: 0.5px solid black; 
+    border-bottom: 0.5px solid black; 
+    padding: 20px; 
+    padding-bottom: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+ }
+ .Otros:hover{
+    background-color:#FEF9E7 ;
+
+ }
+ .Darmealta{
+    border-top: 0.5px solid black; 
+    border-bottom: 0.5px solid black; 
+    padding: 20px; 
+    padding-bottom: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+ }
+ .Darmealta:hover{
+    background-color:#FEF9E7 ;
+
+ }
+ .Borrar{
+    border-top: 0.5px solid black; 
+    border-bottom: 0.5px solid black; 
+    padding: 20px; 
+    padding-bottom: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+ }
+ .Borrar:hover{
+    background-color:#FEF9E7 ;
+
+ }
+ .calle{
+    font-size: 10px;
+    margin-left: 160px;
+ }
+ .abajoca{
+    margin-left: 140px;
+    font-size: 10px;
+ }
+ .abajoca2{
+    margin-left: 188px;
+    font-size: 10px;
+ }
+ .abajoca3{
+    margin-left: 178px;
+    font-size: 10px;
+ }
+ .Mun{
+font-size: 10px;
+margin-left: 135px;
+ }
+ .Es{
+    font-size: 10px;
+    margin-left: 398px;
+ }
+
+ .emailt{
+    margin-left:85px;
+ }
+ .tela{
+    margin-left: 60px;
+ }
+ input[id="movil"]{
+    margin-left: 180px;
+ }
+ input[id="bloqueado"]{
+    margin-left: 230px;
+ }
+ .fijo{
+    margin-left: 130px;
+    font-size: 10px;
+ }
+ .movil{
+    margin-left: 335px;
+    font-size: 10px;
+ }
+ .Otrost{
+    margin-left: 82px;
+ }
+ .apodo{
+    font-size: 10px;
+    margin-left: 280px;
+ }
+ input[id="daralta"],input[id="borrar"]{
+    margin-left: 870px;
+    width: 120px;
+    height: 30px;
+ }
+ input[id="borrar"]{
+    margin-left: 920px;
+    width: 70px;
+    height: 30px;
+
+ }
